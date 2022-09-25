@@ -1,3 +1,5 @@
+// start js
+
 let left = document.querySelector(".left");
 let right = document.querySelector(".right");
 let pic = document.getElementById("pic");
